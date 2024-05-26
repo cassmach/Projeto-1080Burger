@@ -3,7 +3,7 @@
 <p align="center">
 Projeto realizado no Curso B7Web para ensino de tecnologias WEB.
 <br>
-Veja ele aqui > https://zertel95.github.io/Projeto-1080Burger/
+Veja ele aqui > https://cassmach.github.io/Projeto-1080Burger/
 </p>
 
 <p align="center">
